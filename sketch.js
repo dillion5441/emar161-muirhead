@@ -1,7 +1,7 @@
 let img;
 
 function preload() {
-img = loadImage('House Frame 2-min.png');
+img = loadImage('House Frame 3-min.png');
 }
 
 function setup() {
@@ -15,148 +15,148 @@ image(img, 0, 0);
 
 ////structure
 
-line(120, 164, 120, 220);
+line(238, 178, 238, 220);
 strokeWeight(4);
 stroke('yellow');
 
-line(103, 163, 132, 160);
+line(231, 176, 242, 173);
 strokeWeight(4);
 stroke('yellow');
 
-line(132, 160, 160, 160);
+  line(242, 173, 251, 173);
+strokeWeight(4);
+stroke('yellow');
+  
+    line(251, 173, 275, 166);
 strokeWeight(4);
 stroke('yellow');
 
- line(160, 160, 200, 156);
+  line(275, 166, 342, 164);
+strokeWeight(4);
+stroke('yellow');
+  
+   line(342, 164, 342, 143);
+strokeWeight(4);
+stroke('yellow');
+  
+  line(332, 141, 456, 137);
+strokeWeight(4);
+stroke('yellow');
+  
+  line(456, 137, 454, 130);
 strokeWeight(4);
 stroke('yellow');
 
-  line(200, 156, 295, 156);
+  line(454, 130, 550, 127);
 strokeWeight(4);
 stroke('yellow');
-
- line(295, 156, 295, 130);
+  
+    line(540, 127, 542, 153);
 strokeWeight(4);
 stroke('yellow');
-
- line(285, 130, 435, 130);
+  
+    line(542, 153, 645, 150);
 strokeWeight(4);
 stroke('yellow');
-
-  line(435, 130, 443, 125);
+  
+    line(645, 150, 705, 145);
 strokeWeight(4);
 stroke('yellow');
-
-
-  line(442, 125, 540, 125);
+  
+    line(705, 145, 800, 154);
 strokeWeight(4);
 stroke('yellow');
-
-
-  line(532, 125, 529, 153);
+  
+   line(795, 154, 795, 217);
 strokeWeight(4);
 stroke('yellow');
-
-line(529, 153, 630, 153);
-strokeWeight(4);
-stroke('yellow');
-
-line(630, 153, 675, 150);
-strokeWeight(4);
-stroke('yellow');
-
-  line(675, 150, 722, 160);
-strokeWeight(4);
-stroke('yellow');
-
-  line(710, 160, 710, 215);
-strokeWeight(4);
-stroke('yellow');
-
-
+  
+  
 
 ////posts
 
-line(203, 223, 203, 270);
+line(250, 223, 250, 265);
 strokeWeight(4);
 stroke('yellow');
 
-line(275, 223, 275, 274);
+line(263, 223, 263, 265);
 strokeWeight(4);
 stroke('yellow');
 
- line(290, 223, 290, 274);
+ line(302, 223, 302, 265);
 strokeWeight(4);
 stroke('yellow');
 
-line(363, 223, 363, 274);
+ line(315, 223, 315, 265);
 strokeWeight(4);
 stroke('yellow');
 
-line(379, 223, 379, 274);
+ line(370, 223, 370, 268);
 strokeWeight(4);
 stroke('yellow');
 
-line(450, 223, 450, 274);
+ line(385, 223, 385, 268);
 strokeWeight(4);
 stroke('yellow');
 
-line(464, 223, 464, 274);
+ line(445, 223, 445, 270);
 strokeWeight(4);
 stroke('yellow');
 
 
-line(536, 223, 536, 274);
+ line(460, 223, 460, 270);
 strokeWeight(4);
 stroke('yellow');
 
-line(549, 223, 549, 274);
+ line(528, 223, 528, 274);
 strokeWeight(4);
 stroke('yellow');
 
-line(603, 223, 603, 274);
+ line(543, 223, 543, 274);
 strokeWeight(4);
 stroke('yellow');
 
-line(619, 223, 619, 274);
+ line(611, 223, 611, 274);
 strokeWeight(4);
 stroke('yellow');
 
-line(678, 223, 678, 274);
+ line(625, 223, 625, 274);
 strokeWeight(4);
 stroke('yellow');
 
-line(693, 222, 693, 270);
+line(696, 222, 696, 270);
 strokeWeight(4);
 stroke('yellow');
 
-line(693, 222, 710, 216);
+
+
+// ///post tops
+
+line(265, 223, 301, 222);
 strokeWeight(4);
 stroke('yellow');
 
-///post tops
-
-line(203, 223, 275, 222);
+line(316, 222, 369, 222);
 strokeWeight(4);
 stroke('yellow');
 
-line(290, 222, 362, 222);
+line(386, 222, 444, 222);
 strokeWeight(4);
 stroke('yellow');
 
-line(380, 222, 449, 222);
+line(460, 222, 528, 222);
 strokeWeight(4);
 stroke('yellow');
 
-line(465, 222, 535, 222);
+line(543, 222, 610, 222);
 strokeWeight(4);
 stroke('yellow');
 
-line(550, 222, 603, 222);
+line(626, 222, 694, 222);
 strokeWeight(4);
 stroke('yellow');
-
-line(620, 222, 677, 222);
+  
+  line(250, 222, 238, 222);
 strokeWeight(4);
 stroke('yellow');
 
@@ -165,6 +165,6 @@ stroke('yellow');
 fill(0);
 textSize(32);
 textFont('bebas kai');
-text('House Frame 2', 620, 430);
+text('House Frame 3', 620, 430);
 
 }
